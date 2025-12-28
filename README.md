@@ -8,7 +8,7 @@
 Heres how to use it.
 
 
-1. Download Hakai from this repo by going to the realeases which can be found at https://github.com/hwarwucjun/Hakai/releases/tag/V1.20
+1. Download Hakai from this repo by going to the releases which can be found at https://github.com/hwarwucjun/Hakai/releases/tag/V1.20
 2. Once downloaded open the program and wait for it to load and then open minecraft.
 3. When minecraft opens you may go into any server or world and use the provided features.
 
