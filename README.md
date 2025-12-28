@@ -1,4 +1,4 @@
-# Hakai the free minercaft hacked client.
+# Hakai the free minecraft hacked client.
 Heres how to use it.
 
 1. Download Hakai from this repo by going to the realeases which can be found at https://github.com/hwarwucjun/Hakai/releases/tag/V1.20
