@@ -19,3 +19,10 @@ You may only get these features by boosting our discord server (https://discord.
 
 1. Aim Assist
 2. Air Acceleration
+
+# Help
+
+Problem: My anti-virus keeps blocking/deleting it what do i do?
+Solution: Disable your anti-virus or add a exclusion to the program alternativity, you can download defender control (https://www.sordum.org/9480/defender-control-v2-1/) password is "sordum"
+
+We havent heard of any other problems so far.
